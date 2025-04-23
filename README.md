@@ -20,4 +20,4 @@
 
 ### 🧪 Languages & Tools I Use on the Daily:
 
-![Dev Tools](https://skillicons.dev/icons?i=py,powershell,bash,php,react,nodejs,mysql,debian,nginx,ansible,azure,docker,ubuntu,vmware)
+![Dev Tools](https://skillicons.dev/icons?i=py,powershell,bash,php,react,nodejs,mysql,debian,nginx,ansible,azure,docker,ubuntu)
