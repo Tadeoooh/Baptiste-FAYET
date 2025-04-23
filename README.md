@@ -3,7 +3,7 @@
 
 ---
 
-- 🔐 Currently leveling up in **cybersecurity & DevOps**
+- 🔐 Currently leveling up in **Cybersecurity & DevOps**
 - 🎓 2nd-year **BTS SIO (SISR)** student — Networks, systems, and caffeine enthusiast.
 - 🎯 Gunning for an engineering degree in **cybersecurity** at ESIEA.
 - 🧰 Working on real-world infra with **FortiNet**, **M365**, **Ansible** and **Wallix Bastion** (yes, all the cool toys).
