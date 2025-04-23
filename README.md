@@ -13,7 +13,8 @@
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](www.linkedin.com/in/baptiste-fayet-9a683a260)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Fayet-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/baptiste-fayet-9a683a260/)
 
 ---
 
