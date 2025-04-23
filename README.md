@@ -1,14 +1,14 @@
 <h1 align="center">Hey 👋, I'm Baptiste</h1>
-<h3 align="center">A DevOps/Cybersecurity Apprentice from France, currently fighting bugs and bad actors 🐛🕵️‍♂️</h3>
+<h3 align="center">A Cybersecurity/DevOps Apprentice from France, currently fighting bugs and bad actors 🐛🕵️‍♂️</h3>
 
 ---
 
-- 🔐 Currently leveling up in **cybersecurity & DevOps** at CGO, playing with firewalls, Fortinet, and PowerShell spells.
+- 🔐 Currently leveling up in **cybersecurity & DevOps**
 - 🎓 2nd-year **BTS SIO (SISR)** student — Networks, systems, and caffeine enthusiast.
 - 🎯 Gunning for an engineering degree in **cybersecurity** at ESIEA.
-- 🧰 Working on real-world infra with **Ansible**, **FortiMail**, **M365**, **SD-WAN**, and **Wallix Bastion** (yes, all the cool toys).
+- 🧰 Working on real-world infra with **FortiNet**, **M365**, **Ansible** and **Wallix Bastion** (yes, all the cool toys).
 - 🧠 Forever grinding on **TryHackMe**, **Fortinet certs**, and scripting automations that save hours (and headaches).
-- 🛠️ Dev side? Been there. Built that. From full-stack apps to PDF generators and HTML ticket interfaces. (Shoutout to *Speed Tracking* & *Akykotech* 🛤️🧾)
+- 🛠️ Dev side? Been there. Built that. From full-stack apps to PDF generators and HTML ticket interfaces.
 
 ---
 
