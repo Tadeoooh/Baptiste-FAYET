@@ -13,7 +13,7 @@
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](www.linkedin.com/in/baptiste-fayet-9a683a260)
+[![LinkedIn](www.linkedin.com/in/baptiste-fayet-9a683a260)
 
 ---
 
