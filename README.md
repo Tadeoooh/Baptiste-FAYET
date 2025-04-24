@@ -8,7 +8,6 @@
 - 🎯 Gunning for an engineering degree in **Cybersecurity** at ESIEA.
 - 🧰 Working on real-world infra with **FortiNet**, **M365**, **Ansible** and **Wallix Bastion** (yes, all the cool toys).
 - 🧠 Forever grinding on **TryHackMe**, **Fortinet certs**, and scripting automations that save hours (and headaches).
-- 🛠️ Dev side? Been there. Built that. From full-stack apps to PDF generators and HTML ticket interfaces.
 
 ---
 
